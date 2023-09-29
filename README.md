@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://rvs-product-landing-page.vercel.app/">Preview Website</a>
+    <a href="https://rvs-accountable-social-media-feed.vercel.app/">Preview Website</a>
   </h3>
 </div>
 
